@@ -3,7 +3,8 @@
       {
         "id": 1,
         "title": "Post 1",
-        "content": "Lorem ipsum"
+        "content": "Lorem ipsum",
+        "author": 2
       },
       {
         "id": 2,
@@ -32,5 +33,9 @@
     ],
     "profile": {
       "name": "typicode"
+    },
+    "author":{
+      "id": 2,
+      "name": "John Doe"
     }
   }
