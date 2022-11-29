@@ -34,8 +34,10 @@
     "profile": {
       "name": "typicode"
     },
-    "author":{
-      "id": 2,
-      "name": "John Doe"
-    }
+    "authors":[
+      {
+        "id": 2,
+        "name": "John Doe"
+      }
+    ]
   }
